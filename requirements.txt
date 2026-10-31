@@ -1,0 +1,10 @@
+streamlit>=1.40
+pandas
+numpy
+joblib
+plotly
+# only needed to run the notebook:
+scikit-learn
+xgboost
+matplotlib
+seaborn
